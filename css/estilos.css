@@ -1,0 +1,22 @@
+p{
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    color: blueviolet;
+
+}
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    color: aquamarine;
+
+}
+
+body{
+    background: url(../img/mechita.png);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
